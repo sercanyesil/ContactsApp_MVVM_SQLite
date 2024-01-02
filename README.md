@@ -17,3 +17,7 @@ Provides an abstraction layer over SQLite for database operations.
 **Navigation**:
 Handles navigation between different fragments.
 **Kotlin Extension Functions**: Extension functions are employed to enhance the readability and conciseness of the Kotlin code.
+
+![Home Screen Screenshot](https://i.imgur.com/CcdTgAB.png)
+
+![Uploading image.png…]()
