@@ -10,14 +10,15 @@ The Contacts app is a simple Android application built using the MVVM architectu
 
 **Android Architecture Components**:
 
-**ViewModel**:
-Manages UI-related data in a lifecycle-conscious way.
-**Room**: 
-Provides an abstraction layer over SQLite for database operations.
-**Navigation**:
-Handles navigation between different fragments.
+**ViewModel**: Manages UI-related data in a lifecycle-conscious way.
+
+**Room**:  Provides an abstraction layer over SQLite for database operations.
+
+**Navigation**: Handles navigation between different fragments.
+
 **Kotlin Extension Functions**: Extension functions are employed to enhance the readability and conciseness of the Kotlin code.
 
-![Home Screen Screenshot](https://i.imgur.com/CcdTgAB.png)
+<img src="https://i.imgur.com/CcdTgAB.png" alt="Home Screen Screenshot" width="300"/>
 
-![Uploading image.png…]()
+
+
